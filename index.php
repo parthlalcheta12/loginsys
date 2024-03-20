@@ -45,7 +45,7 @@ check_login_errors();
         <h3>SignUp</h3>
         <form action="include/signup.inc.php" method="post">
             Username:
-            <input type="text" name="username" placeholder="username" autocomplete="on"><br><br>
+            <input type="text" name="username" placeholder="Enter your username" autocomplete="on"><br><br>
 
             Password:
             <input type="password" name="pwd" placeholder="password"><br><br>
